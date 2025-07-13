@@ -1,0 +1,29 @@
+/* src/styles/_variables.css */
+
+:root {
+    /* Colors */
+    --footer-color: #1e7171 ;
+     --primary-color: #49818e; /* A fresh green */
+    --primary-dark: #24424f;
+    --accent-color: #c48f24; /* A bright accent yellow */
+    --text-dark: #353636;
+    --text-light: #666666;
+    --background-light: #F7F9FC; /* Light gray-blue */
+    --background-white: #FFFFFF;
+    --border-color: #E0E0E0;
+    --shadow-color: rgba(0, 0, 0, 0.08);
+
+    /* Fonts */
+    --font-primary: 'Poppins', sans-serif; /* Modern, clean font */
+    --font-secondary: 'Roboto', sans-serif;
+
+    /* Spacing */
+    --spacing-xs: 8px;
+    --spacing-sm: 16px;
+    --spacing-md: 24px;
+    --spacing-lg: 40px;
+    --spacing-xl: 60px;
+
+    /* Border Radius */
+    --border-radius: 8px;
+}
