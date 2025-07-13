@@ -22,7 +22,7 @@ Order Confirmation: Get an alert upon successful order placement and cart cleara
 
 Local Storage Integration: Cart items persist even after refreshing the page.
 
-🚀 Technologies Used
+# 🚀 Technologies Used
 React.js: A JavaScript library for building user interfaces.
 
 React Router DOM: For declarative routing within the application.
