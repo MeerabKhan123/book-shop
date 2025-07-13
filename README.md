@@ -1,7 +1,7 @@
-MyBookshop: A Modern Online Bookstore
+# MyBookshop: A Modern Online Bookstore
 Welcome to MyBookshop, a modern and responsive online bookstore web application built with React and pure CSS. This project demonstrates a basic e-commerce flow tailored for books, including book listing, book details, a shopping cart, and a simple checkout process.
 
-✨ Features
+# ✨ Features
 Modern UI: Clean, minimalist, and visually appealing design using pure CSS.
 
 Responsive Layout: Adapts beautifully to various screen sizes (desktop, tablet, mobile).
